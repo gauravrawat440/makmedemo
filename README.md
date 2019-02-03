@@ -1,1 +1,3 @@
-# makmedemo
+---
+permalink: /index.html
+---
