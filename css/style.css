@@ -1744,5 +1744,6 @@ span.price {
     display: flex;
     justify-content: flex-start;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 600;
+    font-size: 75%;
 }
